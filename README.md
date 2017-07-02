@@ -6,6 +6,8 @@ gridstack.js
 [![Dependency Status](https://david-dm.org/troolee/gridstack.js.svg)](https://david-dm.org/troolee/gridstack.js)
 [![devDependency Status](https://david-dm.org/troolee/gridstack.js/dev-status.svg)](https://david-dm.org/troolee/gridstack.js#info=devDependencies)
 
+**CHECK OUT** [jbkunst/gridstackr](https://github.com/jbkunst/gridstackr) for an R Shiny implementation attempt
+
 gridstack.js is a mobile-friendly Javascript library for dashboard layout and creation. Making a drag-and-drop, multi-column dashboard has never been easier. gridstack.js allows you to build draggable, responsive bootstrap v3-friendly layouts. It also works great with [knockout.js](http://knockoutjs.com), [angular.js](https://angularjs.org), [ember](https://www.emberjs.com/).
 
 Join gridstack.js on Slack: https://gridstackjs.troolee.com
